@@ -135,7 +135,7 @@ plt.axis("off")
 #### i) Using Laplacian Kernel:
 ![output](5.png)
 #### ii) Using Laplacian Operator:
-![output](./img/6.png)
+![output](6.png)
 
 
 ## Result:
